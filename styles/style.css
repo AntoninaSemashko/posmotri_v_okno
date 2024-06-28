@@ -141,6 +141,10 @@ button {
   margin-top: 26px;
 }
 
+.content__list li:empty{
+  display: none;
+}
+
 .content__video-card-title {
   font-family: Oswald, Arial, Helvetica, sans-serif;
   font-size: 30px;
